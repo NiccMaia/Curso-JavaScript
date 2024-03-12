@@ -9,6 +9,7 @@
 - [08]: Não utilize VAR, utilize CONST.
 - [09]: Diferente de LET, não podemos fazer (const nome;). Para atribuir depos.
 
+## Codigo
 - `<CONST>` 
 * Para descobrir qual o tipo de qualquer variavel do progama
 * exemplo
