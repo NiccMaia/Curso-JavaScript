@@ -1,3 +1,5 @@
+### Anotações aula [5]
+
 ## Regras Constantes
 - [01]: Não podemos criar constantes com palavras reservadas
 - [02]: Constantes precisam ter nomes significativos (Nada de 'N', 'X', 'Y' e etc.)
@@ -9,7 +11,7 @@
 - [08]: Não utilize VAR, utilize CONST.
 - [09]: Diferente de LET, não podemos fazer (const nome;). Para atribuir depos.
 
-## Codigo
+## Const
 - `<CONST>` 
 * Para descobrir qual o tipo de qualquer variavel do progama
 * exemplo
