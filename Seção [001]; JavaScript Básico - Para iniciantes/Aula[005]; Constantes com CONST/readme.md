@@ -8,3 +8,14 @@
 - [07]: Não podemos modificar o valor de uma constante com let
 - [08]: Não utilize VAR, utilize CONST.
 - [09]: Diferente de LET, não podemos fazer (const nome;). Para atribuir depos.
+
+- `<CONST>` 
+* Para descobrir qual o tipo de qualquer variavel do progama
+* exemplo
+```javascript
+const nome = 'João';
+console.log(nome);
+```
+- `<Obs>`
+* Tentar sempre manter o valor inical da variavel, e ir evoluindo a mesma ao inves de ficar modificando o valor dela por meio do codigo.
+
