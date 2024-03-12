@@ -22,3 +22,10 @@ console.log(nome);
 - `<Obs>`
 * Tentar sempre manter o valor inical da variavel, e ir evoluindo a mesma ao inves de ficar modificando o valor dela por meio do codigo.
 
+-`<Contas>`
+```javascript
+const primeiroNumero = 5;
+const segundoNumero = 10;
+const resultado = primeiroNumero * segundoNumero;
+```
+
